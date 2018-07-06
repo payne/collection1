@@ -1,6 +1,7 @@
 {
   "name": "collection1",
   "projects": [
-    "project1"
+    "project1",
+    "p2es6"
   ]
 }
